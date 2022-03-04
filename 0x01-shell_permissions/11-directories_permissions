@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x -R ./dir*
+ls -d */ | chmod +x -R . 
